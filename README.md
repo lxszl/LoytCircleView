@@ -1,0 +1,2 @@
+# LoytCircleView
+这是一个用UICollectionView实现的简单的图片轮播器.
